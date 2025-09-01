@@ -1,5 +1,5 @@
 # 職務経歴書
-ようこそ！ご確認いただきありがとうございます :raise-hands:
+ようこそ！ご確認いただきありがとうございます :raised_hands:
 
 **氏名:** [Your Name]  
 **メール:** your.email@example.com  
