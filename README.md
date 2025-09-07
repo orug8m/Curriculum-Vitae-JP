@@ -8,7 +8,7 @@
 [社内勉強会などで発表した資料]
 - [Rubyのreturnはなにをしているのか
 ](https://speakerdeck.com/orug8m/rubyfalsereturnhananiwositeirufalseka) (SpeakerDeck)
-- [GoogleMapを使ったプロダクト作成のためにSRID、緯度経度、GeoHash、GeometryをMySQL8.0で理解する](https://orug8m.hatenablog.com/entry/mysql_8_geo_functions) (Hatena Blog)
+- [GoogleMapとMySQL8.0を使ったプロダクトでSRID・緯度経度・GeoHash・Geometryをどう取り扱えるかを理解する](https://orug8m.hatenablog.com/entry/mysql_8_geo_functions) (Hatena Blog)
 ---
 
 ## 大事にしていること・すきなこと
